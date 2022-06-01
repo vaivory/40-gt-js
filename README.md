@@ -3,10 +3,13 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
-# Demo project
+# Different JavaScript things
 _40 group website project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+Here you we ran nodemon server for back-enders.
+
+In this folder will be saved all the JavaScript exampel given by Rimantas Belovas.
+
 
 
 Site published at: https://vaivory.github.io/40-gt-js

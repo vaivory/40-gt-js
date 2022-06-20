@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon",
     "class": "nodemon ./class.js",
+    "destructuring": "nodemon ./destructuring.js",
     "class-extand": "nodemon ./class-extand.js",
     "class-router": "nodemon ./class-router.js",
     "map": "nodemon ./map.js",

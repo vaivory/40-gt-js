@@ -24,16 +24,16 @@ for (const nums of numbers) {
 
 //callbackus naudojam kai reikia failu sistemos, kuris vyksta per async/awaito
 
-const pirmaFunc=(callbackus) =>{
-    setTimeout(()=>{
-        console.log('Pirma finkcija');
-        callback();
-    }, 1000);
-}
-const antraFunc=() =>{
-    setTimeout(()=>{
-        console.log('Antra finkcija');
-    }, 1000);
-}
+// const pirmaFunc=(callbackus) =>{
+//     setTimeout(()=>{
+//         console.log('Pirma finkcija');
+//         callback();
+//     }, 1000);
+// }
+// const antraFunc=() =>{
+//     setTimeout(()=>{
+//         console.log('Antra finkcija');
+//     }, 1000);
+// }
 
-pirmaFunc(antraFunc);
+// pirmaFunc(antraFunc);

@@ -8,6 +8,7 @@
     "class": "nodemon ./class.js",
     "destructuring": "nodemon ./destructuring.js",
     "callback": "nodemon ./callback.js",
+    "class-static": "nodemon ./js/class-static.js",
     "class-extand": "nodemon ./class-extand.js",
     "class-router": "nodemon ./class-router.js",
     "map": "nodemon ./map.js",
